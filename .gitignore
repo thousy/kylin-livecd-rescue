@@ -1,0 +1,20 @@
+# 本地测试快照、截图与临时数据脱敏
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+history_records/
+*.log
+*.tmp
+*.iso
+*.img
+
+# 编辑器与系统配置
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# 代理任务与计划临时文件
+implementation_plan.md
